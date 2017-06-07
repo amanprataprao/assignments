@@ -1,0 +1,30 @@
+﻿
+.main
+{
+background-color: white;
+margin: 30px 300px;
+margin-left: 30%;
+border: 1px solid black;
+width: 500px;
+height: 520px;
+padding: 30px;
+}
+.logo
+{
+width: 100px;
+height: 100px;
+position: left top;
+display: block;
+}
+h2,p
+{
+position: top right;
+text-align: right;
+}
+body
+{
+background-color: rgb(200,200,200);
+}
+img{
+position: absolute;
+}
